@@ -1,0 +1,7 @@
+Process 3d histogram files of X vs lgr vs lgE
+Make histograms for different r (ignore E dependence for now)
+And fit with GH/USP to get Xmumax
+
+files are data/hists_multiple_thin_Fe_E19.root
+and hists_multiple_thin_p_E19.root
+They are from Corsims_aab EPOS

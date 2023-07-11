@@ -1,0 +1,2 @@
+For cos(theta) < 0.6 there are some inconcistensies. Cut these away. Other than that, no strange things as
+function of theta
