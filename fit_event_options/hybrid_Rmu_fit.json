@@ -1,0 +1,15 @@
+{
+        "is_data": true,
+        "MC": false,
+        "fix_lgE": true,
+        "useFdlgE": true,
+        "fix_Xmax": true,
+        "useFdXmax": true,
+        "lgE_shift": 1,
+        "only_t0_fit": true,
+        "reg": {"Rmu": 0,
+                "lgE": 0,
+                "Xmax": 0,
+                "DeltaXmumaxXmax": 0
+        }
+}

@@ -1,0 +1,28 @@
+{
+        "is_data": true,
+        "MC": false,
+        "fix_lgE": true,
+        "useFdlgE": false,
+        "fix_Xmax": false,
+        "useFdXmax": false,
+        "MCXmax": false,
+        "MClgE": false,
+        "fix_Rmu_timefit": true,
+        "lgE_shift": 1,
+        "only_t0_fit": false,
+        "no_data_pulse_shape": false,
+        "reg": {"Rmu": 0,
+                "lgE": 0,
+                "Xmax": 0,
+                "DeltaXmumaxXmax": 0
+        },
+        "cuts": {
+            "rmin": 500,
+            "rmax": 2000,
+            "Smin": 5,
+            "Smax": 4000,
+            "tq_cut": 0.95,
+            "trace_cut": 0,
+            "neff_cut": 0
+        }
+}

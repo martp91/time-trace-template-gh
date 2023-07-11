@@ -29,5 +29,6 @@ __pycache__/
 !/time_templates/data/
 !/time_templates/data/*
 !/time_templates/data/**/*
+!/fit_event_options/*.json
 
 time_templates/data/*conv*.npz
