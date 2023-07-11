@@ -4,6 +4,9 @@ are not added). Contact me for help.
 
 # Time Trace Templates
 
+![alt text](example_ttt.png "Example TTT")
+
+
 This packackge lets you fit Pierre Auger SD events with time trace templates to get an estimate of Xmax.\
 Need python 3 with some packages (should be automatically installed)
 Belongs to PhD thesis Mart Pothast 2022.
